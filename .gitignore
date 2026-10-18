@@ -1,0 +1,37 @@
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+documentation/local_session.json
+
+# Installed dependencies and build caches
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tsbuildinfo
+dist/
+dist-ssr/
+
+# Local application data and uploaded resume copies
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+backend/uploads/
+documentation/resumes/Vijaya_Sri_Manda_Resume.pdf
+
+# Document rendering intermediates
+documentation/qa/
+documentation/qa_formatted/
+
+# Logs and editor files
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

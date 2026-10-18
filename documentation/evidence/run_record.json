@@ -1,0 +1,1400 @@
+{
+  "health": {
+    "status": "healthy",
+    "service": "Berry Bot AI Interview Platform",
+    "ai_provider": "Berry Bot Heuristic AI (Local / Demo Mode)",
+    "supported_languages": {
+      "en": "English",
+      "te": "Telugu (తెలుగు)",
+      "hi": "Hindi (हिन्दी)",
+      "ta": "Tamil (தமிழ்)",
+      "kn": "Kannada (ಕನ್ನಡ)"
+    },
+    "version": "2.0.0"
+  },
+  "date": "18 October 2026",
+  "answers_provenance": "AI-authored demonstration answers; not supplied or confirmed by the candidate.",
+  "resumes": [
+    {
+      "id": 12,
+      "user_id": 5,
+      "filename": "Sample_aiml_Resume.pdf",
+      "file_size": 3419,
+      "candidate_name": "Sample Aiml",
+      "candidate_email": "candidate@example.com",
+      "candidate_phone": "+91 98765 43210",
+      "summary": "Sample Aiml is a passionate engineer with a background in B.Tech in Computer Science and Engineering. Demonstrated technical proficiency in Python, C++, C, SQL and modern frameworks including FastAPI. Hands-on experience developing projects such as 'Full-Stack Web Application' with a focus on clean architecture, API design, and scalable performance.",
+      "parsed_data": {
+        "candidate_name": "Sample Aiml",
+        "candidate_email": "candidate@example.com",
+        "candidate_phone": "+91 98765 43210",
+        "summary": "Sample Aiml is a passionate engineer with a background in B.Tech in Computer Science and Engineering. Demonstrated technical proficiency in Python, C++, C, SQL and modern frameworks including FastAPI. Hands-on experience developing projects such as 'Full-Stack Web Application' with a focus on clean architecture, API design, and scalable performance.",
+        "skills": {
+          "languages": [
+            "Python",
+            "C++",
+            "C",
+            "SQL"
+          ],
+          "frameworks": [
+            "FastAPI"
+          ],
+          "databases": [
+            "PostgreSQL",
+            "Redis"
+          ],
+          "tools_and_platforms": [
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS"
+          ],
+          "other": [
+            "Machine Learning",
+            "Deep Learning"
+          ]
+        },
+        "projects": [
+          {
+            "title": "Full-Stack Web Application",
+            "technologies": [
+              "React",
+              "Node.js",
+              "PostgreSQL"
+            ],
+            "description": "Designed and deployed a responsive application with JWT authentication and RESTful services.",
+            "key_highlights": [
+              "Integrated frontend state management",
+              "Optimized database query performance"
+            ]
+          }
+        ],
+        "experience": [
+          {
+            "company": "Tech Organization",
+            "role": "{\"company\": \"Cognitive AI Labs\", \"role\": \"Machine Learning Engineer Intern\", \"duration\": \"Jan 2024 -",
+            "duration": "Recent",
+            "responsibilities": [
+              "Jun 2024\", \"responsibilities\": [\"Benchmarked transformer backbones for domain-specific sentiment",
+              "analysis\", \"Automated data preprocessing pipelines using Python and Celery workers\"]}"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science and Engineering",
+            "institution": "University Institute of Technology",
+            "year": "2020 - 2024",
+            "grade_or_gpa": "8.4 / 10"
+          }
+        ],
+        "certifications": [
+          "DeepLearning.AI Deep Learning Specialization",
+          "TensorFlow Developer Certificate"
+        ],
+        "topics_to_explore": [
+          "Architecture, state management, and design trade-offs in project 'Full-Stack Web Application' using React, Node.js, PostgreSQL",
+          "Deep dive into Python memory model, concurrency, and OOP principles",
+          "FastAPI lifecycle, optimization, and component/service architecture",
+          "Database schema design, indexing, and query optimization with PostgreSQL",
+          "Situational engineering decision making, conflict resolution, and code review practices"
+        ]
+      },
+      "created_at": "2026-10-18T05:43:16.768832"
+    },
+    {
+      "id": 13,
+      "user_id": 5,
+      "filename": "Sample_fullstack_Resume.pdf",
+      "file_size": 3463,
+      "candidate_name": "Sample Fullstack",
+      "candidate_email": "candidate@example.com",
+      "candidate_phone": "+91 98765 43210",
+      "summary": "Sample Fullstack is a passionate engineer with a background in B.Tech in Computer Science and Engineering. Demonstrated technical proficiency in Python, JavaScript, TypeScript, SQL and modern frameworks including React, Next.js, Node.js. Hands-on experience developing projects such as 'Full-Stack Web Application' with a focus on clean architecture, API design, and scalable performance.",
+      "parsed_data": {
+        "candidate_name": "Sample Fullstack",
+        "candidate_email": "candidate@example.com",
+        "candidate_phone": "+91 98765 43210",
+        "summary": "Sample Fullstack is a passionate engineer with a background in B.Tech in Computer Science and Engineering. Demonstrated technical proficiency in Python, JavaScript, TypeScript, SQL and modern frameworks including React, Next.js, Node.js. Hands-on experience developing projects such as 'Full-Stack Web Application' with a focus on clean architecture, API design, and scalable performance.",
+        "skills": {
+          "languages": [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "SQL",
+            "HTML5",
+            "CSS3"
+          ],
+          "frameworks": [
+            "React",
+            "Next.js",
+            "Node.js",
+            "Express.js",
+            "FastAPI",
+            "Tailwind CSS"
+          ],
+          "databases": [
+            "PostgreSQL",
+            "MongoDB",
+            "Redis"
+          ],
+          "tools_and_platforms": [
+            "Git",
+            "Docker",
+            "AWS",
+            "CI/CD",
+            "Postman"
+          ],
+          "other": [
+            "REST API",
+            "Microservices",
+            "GraphQL",
+            "Agile",
+            "Scrum"
+          ]
+        },
+        "projects": [
+          {
+            "title": "Full-Stack Web Application",
+            "technologies": [
+              "React",
+              "Node.js",
+              "PostgreSQL"
+            ],
+            "description": "Designed and deployed a responsive application with JWT authentication and RESTful services.",
+            "key_highlights": [
+              "Integrated frontend state management",
+              "Optimized database query performance"
+            ]
+          }
+        ],
+        "experience": [
+          {
+            "company": "Tech Organization",
+            "role": "{\"company\": \"Nexus Technologies Pvt Ltd\", \"role\": \"Associate Software Engineer\", \"duration\": \"Jul",
+            "duration": "Recent",
+            "responsibilities": [
+              "2023 - Present\", \"responsibilities\": [\"Developed and maintained React customer portal components"
+            ]
+          },
+          {
+            "company": "Tech Organization",
+            "role": "with 95% test coverage\", \"Collaborated with backend engineers to design idempotent RESTful",
+            "duration": "Recent",
+            "responsibilities": [
+              "APIs\", \"Participated in bi-weekly sprint planning and code reviews\"]}"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science and Engineering",
+            "institution": "University Institute of Technology",
+            "year": "2019 - 2023",
+            "grade_or_gpa": "8.4 / 10"
+          }
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner",
+          "Meta Frontend Developer Professional Certificate"
+        ],
+        "topics_to_explore": [
+          "Architecture, state management, and design trade-offs in project 'Full-Stack Web Application' using React, Node.js, PostgreSQL",
+          "Deep dive into Python memory model, concurrency, and OOP principles",
+          "React lifecycle, optimization, and component/service architecture",
+          "Database schema design, indexing, and query optimization with PostgreSQL",
+          "Situational engineering decision making, conflict resolution, and code review practices"
+        ]
+      },
+      "created_at": "2026-10-18T05:43:16.784022"
+    },
+    {
+      "id": 14,
+      "user_id": 5,
+      "filename": "Vijaya_Sri_Manda_Resume.pdf",
+      "file_size": 157470,
+      "candidate_name": "Manda Vijaya Sri",
+      "candidate_email": "ne6301749467vijayasrimanda025@gmail.comlinkedin.com",
+      "candidate_phone": "6301749467",
+      "summary": "Manda Vijaya Sri is a passionate engineer with a background in B.Tech in Computer Science and Engineering. Demonstrated technical proficiency in Python, Java, JavaScript, C and modern frameworks including React, React.js, Node.js. Hands-on experience developing projects such as 'Full-Stack Web Application' with a focus on clean architecture, API design, and scalable performance.",
+      "parsed_data": {
+        "candidate_name": "Manda Vijaya Sri",
+        "candidate_email": "ne6301749467vijayasrimanda025@gmail.comlinkedin.com",
+        "candidate_phone": "6301749467",
+        "summary": "Manda Vijaya Sri is a passionate engineer with a background in B.Tech in Computer Science and Engineering. Demonstrated technical proficiency in Python, Java, JavaScript, C and modern frameworks including React, React.js, Node.js. Hands-on experience developing projects such as 'Full-Stack Web Application' with a focus on clean architecture, API design, and scalable performance.",
+        "skills": {
+          "languages": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C",
+            "SQL"
+          ],
+          "frameworks": [
+            "React",
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "Spring Boot"
+          ],
+          "databases": [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "Oracle"
+          ],
+          "tools_and_platforms": [
+            "Git",
+            "GitHub",
+            "Docker",
+            "Azure"
+          ],
+          "other": [
+            "REST API",
+            "Microservices",
+            "Machine Learning",
+            "Deep Learning",
+            "Data Analysis"
+          ]
+        },
+        "projects": [
+          {
+            "title": "Full-Stack Web Application",
+            "technologies": [
+              "React",
+              "Node.js",
+              "PostgreSQL"
+            ],
+            "description": "Designed and deployed a responsive application with JWT authentication and RESTful services.",
+            "key_highlights": [
+              "Integrated frontend state management",
+              "Optimized database query performance"
+            ]
+          }
+        ],
+        "experience": [
+          {
+            "company": "Tech Organization",
+            "role": "SmartInternz",
+            "duration": "Recent",
+            "responsibilities": []
+          },
+          {
+            "company": "Tech Organization",
+            "role": "Full Stack (MERN) Intern|React.js, Node.js, Express.js, MongoDB, GitMay 2025 – Jul 2025",
+            "duration": "Recent",
+            "responsibilities": [
+              "–Developed responsive full-stack web applications using the MERN stack with scalable frontend interfaces.",
+              "–Built RESTful APIs and integrated MongoDB databases to handle dynamic user data and system state."
+            ]
+          },
+          {
+            "company": "Tech Organization",
+            "role": "Cybersecurity Intern|Nmap, Wireshark, Burp Suite, SQLmapApr 2025 – Jul 2025",
+            "duration": "Recent",
+            "responsibilities": [
+              "–Conducted vulnerability assessments and penetration testing using Nmap, Wireshark, and Burp Suite.",
+              "–Identified web application security vulnerabilities and prepared comprehensive mitigation reports."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.Tech in Computer Science and Engineering",
+            "institution": "University Institute of Technology",
+            "year": "2021–2024",
+            "grade_or_gpa": "8.4 / 10"
+          }
+        ],
+        "certifications": [
+          "Microsoft– Machine Learning Operations Engineer Associate (AI-300) Jun 2025",
+          "Microsoft– Azure AI Cloud Developer Associate (AI-200) May 2025",
+          "Oracle– Agentic AI Certified Foundations Associate Apr 2025"
+        ],
+        "topics_to_explore": [
+          "Architecture, state management, and design trade-offs in project 'Full-Stack Web Application' using React, Node.js, PostgreSQL",
+          "Deep dive into Python memory model, concurrency, and OOP principles",
+          "React lifecycle, optimization, and component/service architecture",
+          "Database schema design, indexing, and query optimization with PostgreSQL",
+          "Situational engineering decision making, conflict resolution, and code review practices"
+        ]
+      },
+      "created_at": "2026-10-18T05:43:16.835770"
+    }
+  ],
+  "config": {
+    "job_role": "Full Stack Developer",
+    "experience_level": "Fresher",
+    "interview_type": "Mixed",
+    "language": "en",
+    "duration_minutes": 15,
+    "total_questions": 5,
+    "resume_id": 27
+  },
+  "repeat_identical_questions": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "repeat_identical_evaluations": false,
+  "initial_sessions": [
+    {
+      "id": 7,
+      "report": {
+        "session_id": 7,
+        "candidate_id": 5,
+        "candidate_name": "Manda Vijaya Sri",
+        "candidate_email": "vijaya.documentation@example.com",
+        "job_role": "Full Stack Developer",
+        "experience_level": "Fresher",
+        "interview_type": "Mixed",
+        "language": "en",
+        "created_at": "2026-10-18T05:43:16.852552",
+        "completed_at": "2026-10-18T05:43:16.941308",
+        "duration_minutes": 15,
+        "overall_score": 88,
+        "technical_score": 92.4,
+        "relevance_score": 89.4,
+        "depth_score": 85.7,
+        "problem_solving_score": 83.9,
+        "clarity_score": 85,
+        "resume_match_score": 92.4,
+        "rubric_weights": {
+          "technical_correctness": 0.3,
+          "relevance": 0.2,
+          "depth_of_understanding": 0.2,
+          "problem_solving": 0.2,
+          "clarity_of_explanation": 0.1
+        },
+        "recommendation": "Strong Match",
+        "recommendation_justification": "Candidate demonstrated comprehensive mastery for the Full Stack Developer (Fresher) profile, achieving an aggregate score of 88.0%. Responses showed high technical precision, sound architectural problem-solving, and clear articulation of design trade-offs.",
+        "strengths_summary": "Key Strengths: Q1 (Resume & Project Deep Dive): Scored 85.9%; Q2 (Core Programming & Concurrency): Scored 91.1%; Q3 (Database & High Performance): Scored 90.5%; Q4 (System Design & Idempotency): Scored 90.5%; Q5 (Engineering Collaboration & Behavioral): Scored 82.1%",
+        "knowledge_gaps_summary": "Areas for Improvement: Continuous refinement in large-scale system patterns.",
+        "learning_recommendations": [
+          {
+            "topic": "Advanced Full Stack Developer Systems Architecture",
+            "description": "Deep dive into microservices communication patterns, idempotency, and distributed transaction management.",
+            "resources": [
+              "Designing Data-Intensive Applications (Martin Kleppmann)",
+              "System Design Primer (GitHub)"
+            ],
+            "priority": "High"
+          },
+          {
+            "topic": "Concurrency, Memory, and Async Runtimes",
+            "description": "Master non-blocking I/O, event loops, thread pooling, and prevention of race conditions.",
+            "resources": [
+              "Official Language Documentation & Concurrency Guides",
+              "High Performance Browser Networking"
+            ],
+            "priority": "Medium"
+          },
+          {
+            "topic": "Observability & Production Reliability",
+            "description": "Learn to monitor metrics, traces, and logs using OpenTelemetry, Prometheus, and Grafana.",
+            "resources": [
+              "Google Site Reliability Engineering (SRE) Handbook"
+            ],
+            "priority": "Medium"
+          }
+        ],
+        "recruiter_override_score": null,
+        "recruiter_override_recommendation": null,
+        "recruiter_notes": null,
+        "reviewed_at": null,
+        "questions": [
+          {
+            "id": 25,
+            "session_id": 7,
+            "order_index": 1,
+            "category": "Resume & Project Deep Dive",
+            "question_text": "In your project 'Full-Stack Web Application' built with React, Node.js, PostgreSQL, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "question_text_en": "In your project 'Full-Stack Web Application' built with React, Node.js, PostgreSQL, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "audio_caption": "In your project 'Full-Stack Web Application' built with React, Node.js, PostgreSQL, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "is_follow_up": false,
+            "candidate_answer": "For my Quantum Traffic Optimization System, the resume lists Python, Qiskit, Streamlit and Google Maps API. In this demonstration I would separate route data collection, optimization and dashboard presentation. I would validate missing traffic inputs, compare routes against a classical baseline and test response latency. The resume does not establish quantum advantage or measured performance, so those claims require supporting experiments.",
+            "answer_input_type": "text",
+            "score_overall": 85.9,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:16.877567"
+          },
+          {
+            "id": 26,
+            "session_id": 7,
+            "order_index": 2,
+            "category": "Core Programming & Concurrency",
+            "question_text": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "question_text_en": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "audio_caption": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "is_follow_up": false,
+            "candidate_answer": "I would handle API concurrency with asynchronous I/O for network calls and a bounded worker pool for CPU intensive tasks. I would prevent shared state races using isolated request data and transaction boundaries. I would test simultaneous requests, measure latency and log failures before choosing a deployment scale. This is a proposed approach rather than a verified description of my implementation.",
+            "answer_input_type": "text",
+            "score_overall": 91.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:16.894593"
+          },
+          {
+            "id": 27,
+            "session_id": 7,
+            "order_index": 3,
+            "category": "Database & High Performance",
+            "question_text": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "question_text_en": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "audio_caption": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "is_follow_up": false,
+            "candidate_answer": "I would design database indexes around frequent filters and joins, inspect the query plan and measure latency using representative data. To handle consistency I would use a transaction for related updates, validate inputs and test rollback paths. Indexes speed reads but consume storage and make writes more expensive, so I would retain only indexes justified by measurements.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:16.907549"
+          },
+          {
+            "id": 28,
+            "session_id": 7,
+            "order_index": 4,
+            "category": "System Design & Idempotency",
+            "question_text": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "question_text_en": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "audio_caption": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "is_follow_up": false,
+            "candidate_answer": "For a reliable API I would validate requests, enforce authentication and authorization, use parameterized database queries and return safe error messages. I would handle timeouts with bounded retry policies for idempotent operations. I would add tests, structured logs and metrics so failures can be reproduced and security issues investigated. This describes my proposed design for the scenario.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:16.920413"
+          },
+          {
+            "id": 29,
+            "session_id": 7,
+            "order_index": 5,
+            "category": "Engineering Collaboration & Behavioral",
+            "question_text": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "question_text_en": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "audio_caption": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "is_follow_up": false,
+            "candidate_answer": "During a team disagreement I would first ask each member to explain the requirement and the evidence behind their preferred design. I would document the options, agree on a small test and compare the results against shared acceptance criteria. If the issue remained unresolved I would ask the project mentor to help decide. This is a hypothetical behavioral answer for the demonstration.",
+            "answer_input_type": "text",
+            "score_overall": 82.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:16.934443"
+          }
+        ],
+        "audit_history": []
+      },
+      "evaluations": [
+        {
+          "question_id": 25,
+          "score_overall": 85.9,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 86,
+          "score_problem_solving": 68.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 26,
+          "score_overall": 91.1,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 92,
+          "score_problem_solving": 88.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 27,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 28,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 29,
+          "score_overall": 82.1,
+          "score_technical": 81.8,
+          "score_relevance": 90,
+          "score_depth": 66.5,
+          "score_problem_solving": 88.6,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "report": {
+        "session_id": 8,
+        "candidate_id": 5,
+        "candidate_name": "Manda Vijaya Sri",
+        "candidate_email": "vijaya.documentation@example.com",
+        "job_role": "Full Stack Developer",
+        "experience_level": "Fresher",
+        "interview_type": "Mixed",
+        "language": "en",
+        "created_at": "2026-10-18T05:43:16.953461",
+        "completed_at": "2026-10-18T05:43:17.039517",
+        "duration_minutes": 15,
+        "overall_score": 88,
+        "technical_score": 92.4,
+        "relevance_score": 89.4,
+        "depth_score": 85.7,
+        "problem_solving_score": 83.9,
+        "clarity_score": 85,
+        "resume_match_score": 92.4,
+        "rubric_weights": {
+          "technical_correctness": 0.3,
+          "relevance": 0.2,
+          "depth_of_understanding": 0.2,
+          "problem_solving": 0.2,
+          "clarity_of_explanation": 0.1
+        },
+        "recommendation": "Strong Match",
+        "recommendation_justification": "Candidate demonstrated comprehensive mastery for the Full Stack Developer (Fresher) profile, achieving an aggregate score of 88.0%. Responses showed high technical precision, sound architectural problem-solving, and clear articulation of design trade-offs.",
+        "strengths_summary": "Key Strengths: Q1 (Resume & Project Deep Dive): Scored 85.9%; Q2 (Core Programming & Concurrency): Scored 91.1%; Q3 (Database & High Performance): Scored 90.5%; Q4 (System Design & Idempotency): Scored 90.5%; Q5 (Engineering Collaboration & Behavioral): Scored 82.1%",
+        "knowledge_gaps_summary": "Areas for Improvement: Continuous refinement in large-scale system patterns.",
+        "learning_recommendations": [
+          {
+            "topic": "Advanced Full Stack Developer Systems Architecture",
+            "description": "Deep dive into microservices communication patterns, idempotency, and distributed transaction management.",
+            "resources": [
+              "Designing Data-Intensive Applications (Martin Kleppmann)",
+              "System Design Primer (GitHub)"
+            ],
+            "priority": "High"
+          },
+          {
+            "topic": "Concurrency, Memory, and Async Runtimes",
+            "description": "Master non-blocking I/O, event loops, thread pooling, and prevention of race conditions.",
+            "resources": [
+              "Official Language Documentation & Concurrency Guides",
+              "High Performance Browser Networking"
+            ],
+            "priority": "Medium"
+          },
+          {
+            "topic": "Observability & Production Reliability",
+            "description": "Learn to monitor metrics, traces, and logs using OpenTelemetry, Prometheus, and Grafana.",
+            "resources": [
+              "Google Site Reliability Engineering (SRE) Handbook"
+            ],
+            "priority": "Medium"
+          }
+        ],
+        "recruiter_override_score": null,
+        "recruiter_override_recommendation": null,
+        "recruiter_notes": null,
+        "reviewed_at": null,
+        "questions": [
+          {
+            "id": 30,
+            "session_id": 8,
+            "order_index": 1,
+            "category": "Resume & Project Deep Dive",
+            "question_text": "In your project 'Full-Stack Web Application' built with React, Node.js, PostgreSQL, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "question_text_en": "In your project 'Full-Stack Web Application' built with React, Node.js, PostgreSQL, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "audio_caption": "In your project 'Full-Stack Web Application' built with React, Node.js, PostgreSQL, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "is_follow_up": false,
+            "candidate_answer": "For my Quantum Traffic Optimization System, the resume lists Python, Qiskit, Streamlit and Google Maps API. In this demonstration I would separate route data collection, optimization and dashboard presentation. I would validate missing traffic inputs, compare routes against a classical baseline and test response latency. The resume does not establish quantum advantage or measured performance, so those claims require supporting experiments.",
+            "answer_input_type": "text",
+            "score_overall": 85.9,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:16.970991"
+          },
+          {
+            "id": 31,
+            "session_id": 8,
+            "order_index": 2,
+            "category": "Core Programming & Concurrency",
+            "question_text": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "question_text_en": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "audio_caption": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "is_follow_up": false,
+            "candidate_answer": "I would handle API concurrency with asynchronous I/O for network calls and a bounded worker pool for CPU intensive tasks. I would prevent shared state races using isolated request data and transaction boundaries. I would test simultaneous requests, measure latency and log failures before choosing a deployment scale. This is a proposed approach rather than a verified description of my implementation.",
+            "answer_input_type": "text",
+            "score_overall": 91.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:16.985490"
+          },
+          {
+            "id": 32,
+            "session_id": 8,
+            "order_index": 3,
+            "category": "Database & High Performance",
+            "question_text": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "question_text_en": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "audio_caption": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "is_follow_up": false,
+            "candidate_answer": "I would design database indexes around frequent filters and joins, inspect the query plan and measure latency using representative data. To handle consistency I would use a transaction for related updates, validate inputs and test rollback paths. Indexes speed reads but consume storage and make writes more expensive, so I would retain only indexes justified by measurements.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:17.000712"
+          },
+          {
+            "id": 33,
+            "session_id": 8,
+            "order_index": 4,
+            "category": "System Design & Idempotency",
+            "question_text": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "question_text_en": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "audio_caption": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "is_follow_up": false,
+            "candidate_answer": "For a reliable API I would validate requests, enforce authentication and authorization, use parameterized database queries and return safe error messages. I would handle timeouts with bounded retry policies for idempotent operations. I would add tests, structured logs and metrics so failures can be reproduced and security issues investigated. This describes my proposed design for the scenario.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:17.017074"
+          },
+          {
+            "id": 34,
+            "session_id": 8,
+            "order_index": 5,
+            "category": "Engineering Collaboration & Behavioral",
+            "question_text": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "question_text_en": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "audio_caption": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "is_follow_up": false,
+            "candidate_answer": "During a team disagreement I would first ask each member to explain the requirement and the evidence behind their preferred design. I would document the options, agree on a small test and compare the results against shared acceptance criteria. If the issue remained unresolved I would ask the project mentor to help decide. This is a hypothetical behavioral answer for the demonstration.",
+            "answer_input_type": "text",
+            "score_overall": 82.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:43:17.032208"
+          }
+        ],
+        "audit_history": []
+      },
+      "evaluations": [
+        {
+          "question_id": 30,
+          "score_overall": 85.9,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 86,
+          "score_problem_solving": 68.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 31,
+          "score_overall": 91.1,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 92,
+          "score_problem_solving": 88.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 32,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 33,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 34,
+          "score_overall": 82.1,
+          "score_technical": 81.8,
+          "score_relevance": 90,
+          "score_depth": 66.5,
+          "score_problem_solving": 88.6,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        }
+      ]
+    }
+  ],
+  "corrected_resume": {
+    "id": 27,
+    "user_id": 5,
+    "filename": "Vijaya_Sri_Manda_Resume.pdf",
+    "file_size": 157470,
+    "candidate_name": "Manda Vijaya Sri",
+    "candidate_email": "ne6301749467vijayasrimanda025@gmail.comlinkedin.com",
+    "candidate_phone": "6301749467",
+    "summary": "B.Tech AI and DS student with MERN, cybersecurity and data science internships and projects in traffic optimization, healthcare management, drone detection and e-commerce.",
+    "parsed_data": {
+      "candidate_name": "Manda Vijaya Sri",
+      "candidate_email": "ne6301749467vijayasrimanda025@gmail.comlinkedin.com",
+      "candidate_phone": "6301749467",
+      "summary": "B.Tech AI and DS student with MERN, cybersecurity and data science internships and projects in traffic optimization, healthcare management, drone detection and e-commerce.",
+      "skills": {
+        "languages": [
+          "Python",
+          "Java",
+          "JavaScript",
+          "C",
+          "SQL"
+        ],
+        "frameworks": [
+          "React",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Spring Boot"
+        ],
+        "databases": [
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Oracle"
+        ],
+        "tools_and_platforms": [
+          "Git",
+          "GitHub",
+          "Docker",
+          "Azure"
+        ],
+        "other": [
+          "REST API",
+          "Microservices",
+          "Machine Learning",
+          "Deep Learning",
+          "Data Analysis"
+        ]
+      },
+      "projects": [
+        {
+          "title": "Quantum Traffic Optimization System",
+          "technologies": [
+            "Python",
+            "Qiskit",
+            "Streamlit",
+            "Google Maps API"
+          ],
+          "description": "Quantum-inspired traffic optimization engine and interactive route analytics dashboard.",
+          "key_highlights": []
+        },
+        {
+          "title": "CarePulse Healthcare Management System",
+          "technologies": [
+            "React.js",
+            "Spring Boot",
+            "MySQL"
+          ],
+          "description": "Patient, doctor and appointment management with JWT authentication and REST APIs.",
+          "key_highlights": []
+        },
+        {
+          "title": "Drone Detection AI",
+          "technologies": [
+            "YOLO",
+            "OpenCV",
+            "Firebase"
+          ],
+          "description": "Real-time drone detection from video feeds.",
+          "key_highlights": []
+        },
+        {
+          "title": "Fresh Cart MERN Web App",
+          "technologies": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+          ],
+          "description": "E-commerce product catalog and shopping cart management.",
+          "key_highlights": []
+        }
+      ],
+      "experience": [
+        {
+          "company": "SmartInternz",
+          "role": "Full Stack MERN Intern",
+          "duration": "May 2025 to Jul 2025",
+          "responsibilities": []
+        },
+        {
+          "company": "Indian Servers",
+          "role": "Cybersecurity Intern",
+          "duration": "Apr 2025 to Jul 2025",
+          "responsibilities": []
+        },
+        {
+          "company": "SkillDzire",
+          "role": "Data Science Intern",
+          "duration": "May 2025 to Jun 2025",
+          "responsibilities": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Tech AI and DS",
+          "institution": "Seshadri Rao Gudlavalleru Engineering College",
+          "year": "Pursuing",
+          "grade_or_gpa": "9.01 till date"
+        },
+        {
+          "degree": "Diploma CME",
+          "institution": "VKR, VNB and AGK College",
+          "year": "2021-2024",
+          "grade_or_gpa": "9.13"
+        }
+      ],
+      "certifications": [
+        "Microsoft– Machine Learning Operations Engineer Associate (AI-300) Jun 2025",
+        "Microsoft– Azure AI Cloud Developer Associate (AI-200) May 2025",
+        "Oracle– Agentic AI Certified Foundations Associate Apr 2025"
+      ],
+      "topics_to_explore": [
+        "Quantum Traffic Optimization System architecture and validation",
+        "Python concurrency and memory",
+        "Database indexing and query plans",
+        "API reliability and idempotency",
+        "Engineering collaboration"
+      ]
+    },
+    "created_at": "2026-10-18T05:45:26.371310"
+  },
+  "sessions": [
+    {
+      "id": 11,
+      "report": {
+        "session_id": 11,
+        "candidate_id": 5,
+        "candidate_name": "Manda Vijaya Sri",
+        "candidate_email": "vijaya.documentation@example.com",
+        "job_role": "Full Stack Developer",
+        "experience_level": "Fresher",
+        "interview_type": "Mixed",
+        "language": "en",
+        "created_at": "2026-10-18T05:45:30.346878",
+        "completed_at": "2026-10-18T05:45:38.117094",
+        "duration_minutes": 15,
+        "overall_score": 88,
+        "technical_score": 92.4,
+        "relevance_score": 89.4,
+        "depth_score": 85.7,
+        "problem_solving_score": 83.9,
+        "clarity_score": 85,
+        "resume_match_score": 92.4,
+        "rubric_weights": {
+          "technical_correctness": 0.3,
+          "relevance": 0.2,
+          "depth_of_understanding": 0.2,
+          "problem_solving": 0.2,
+          "clarity_of_explanation": 0.1
+        },
+        "recommendation": "Strong Match",
+        "recommendation_justification": "Candidate demonstrated comprehensive mastery for the Full Stack Developer (Fresher) profile, achieving an aggregate score of 88.0%. Responses showed high technical precision, sound architectural problem-solving, and clear articulation of design trade-offs.",
+        "strengths_summary": "Key Strengths: Q1 (Resume & Project Deep Dive): Scored 85.9%; Q2 (Core Programming & Concurrency): Scored 91.1%; Q3 (Database & High Performance): Scored 90.5%; Q4 (System Design & Idempotency): Scored 90.5%; Q5 (Engineering Collaboration & Behavioral): Scored 82.1%",
+        "knowledge_gaps_summary": "Areas for Improvement: Continuous refinement in large-scale system patterns.",
+        "learning_recommendations": [
+          {
+            "topic": "Advanced Full Stack Developer Systems Architecture",
+            "description": "Deep dive into microservices communication patterns, idempotency, and distributed transaction management.",
+            "resources": [
+              "Designing Data-Intensive Applications (Martin Kleppmann)",
+              "System Design Primer (GitHub)"
+            ],
+            "priority": "High"
+          },
+          {
+            "topic": "Concurrency, Memory, and Async Runtimes",
+            "description": "Master non-blocking I/O, event loops, thread pooling, and prevention of race conditions.",
+            "resources": [
+              "Official Language Documentation & Concurrency Guides",
+              "High Performance Browser Networking"
+            ],
+            "priority": "Medium"
+          },
+          {
+            "topic": "Observability & Production Reliability",
+            "description": "Learn to monitor metrics, traces, and logs using OpenTelemetry, Prometheus, and Grafana.",
+            "resources": [
+              "Google Site Reliability Engineering (SRE) Handbook"
+            ],
+            "priority": "Medium"
+          }
+        ],
+        "recruiter_override_score": null,
+        "recruiter_override_recommendation": null,
+        "recruiter_notes": null,
+        "reviewed_at": null,
+        "questions": [
+          {
+            "id": 45,
+            "session_id": 11,
+            "order_index": 1,
+            "category": "Resume & Project Deep Dive",
+            "question_text": "In your project 'Quantum Traffic Optimization System' built with Python, Qiskit, Streamlit, Google Maps API, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "question_text_en": "In your project 'Quantum Traffic Optimization System' built with Python, Qiskit, Streamlit, Google Maps API, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "audio_caption": "In your project 'Quantum Traffic Optimization System' built with Python, Qiskit, Streamlit, Google Maps API, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "is_follow_up": false,
+            "candidate_answer": "For my Quantum Traffic Optimization System, the resume lists Python, Qiskit, Streamlit and Google Maps API. In this demonstration I would separate route data collection, optimization and dashboard presentation. I would validate missing traffic inputs, compare routes against a classical baseline and test response latency. The resume does not establish quantum advantage or measured performance, so those claims require supporting experiments.",
+            "answer_input_type": "text",
+            "score_overall": 85.9,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:31.930794"
+          },
+          {
+            "id": 46,
+            "session_id": 11,
+            "order_index": 2,
+            "category": "Core Programming & Concurrency",
+            "question_text": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "question_text_en": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "audio_caption": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "is_follow_up": false,
+            "candidate_answer": "I would handle API concurrency with asynchronous I/O for network calls and a bounded worker pool for CPU intensive tasks. I would prevent shared state races using isolated request data and transaction boundaries. I would test simultaneous requests, measure latency and log failures before choosing a deployment scale. This is a proposed approach rather than a verified description of my implementation.",
+            "answer_input_type": "text",
+            "score_overall": 91.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:33.429449"
+          },
+          {
+            "id": 47,
+            "session_id": 11,
+            "order_index": 3,
+            "category": "Database & High Performance",
+            "question_text": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "question_text_en": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "audio_caption": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "is_follow_up": false,
+            "candidate_answer": "I would design database indexes around frequent filters and joins, inspect the query plan and measure latency using representative data. To handle consistency I would use a transaction for related updates, validate inputs and test rollback paths. Indexes speed reads but consume storage and make writes more expensive, so I would retain only indexes justified by measurements.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:34.762203"
+          },
+          {
+            "id": 48,
+            "session_id": 11,
+            "order_index": 4,
+            "category": "System Design & Idempotency",
+            "question_text": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "question_text_en": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "audio_caption": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "is_follow_up": false,
+            "candidate_answer": "For a reliable API I would validate requests, enforce authentication and authorization, use parameterized database queries and return safe error messages. I would handle timeouts with bounded retry policies for idempotent operations. I would add tests, structured logs and metrics so failures can be reproduced and security issues investigated. This describes my proposed design for the scenario.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:36.203520"
+          },
+          {
+            "id": 49,
+            "session_id": 11,
+            "order_index": 5,
+            "category": "Engineering Collaboration & Behavioral",
+            "question_text": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "question_text_en": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "audio_caption": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "is_follow_up": false,
+            "candidate_answer": "During a team disagreement I would first ask each member to explain the requirement and the evidence behind their preferred design. I would document the options, agree on a small test and compare the results against shared acceptance criteria. If the issue remained unresolved I would ask the project mentor to help decide. This is a hypothetical behavioral answer for the demonstration.",
+            "answer_input_type": "text",
+            "score_overall": 82.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:37.488088"
+          }
+        ],
+        "audit_history": []
+      },
+      "evaluations": [
+        {
+          "question_id": 45,
+          "score_overall": 85.9,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 86,
+          "score_problem_solving": 68.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 46,
+          "score_overall": 91.1,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 92,
+          "score_problem_solving": 88.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 47,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 48,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 49,
+          "score_overall": 82.1,
+          "score_technical": 81.8,
+          "score_relevance": 90,
+          "score_depth": 66.5,
+          "score_problem_solving": 88.6,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "report": {
+        "session_id": 12,
+        "candidate_id": 5,
+        "candidate_name": "Manda Vijaya Sri",
+        "candidate_email": "vijaya.documentation@example.com",
+        "job_role": "Full Stack Developer",
+        "experience_level": "Fresher",
+        "interview_type": "Mixed",
+        "language": "en",
+        "created_at": "2026-10-18T05:45:40.070375",
+        "completed_at": "2026-10-18T05:45:40.485342",
+        "duration_minutes": 15,
+        "overall_score": 88,
+        "technical_score": 92.4,
+        "relevance_score": 89.4,
+        "depth_score": 85.7,
+        "problem_solving_score": 83.9,
+        "clarity_score": 85,
+        "resume_match_score": 92.4,
+        "rubric_weights": {
+          "technical_correctness": 0.3,
+          "relevance": 0.2,
+          "depth_of_understanding": 0.2,
+          "problem_solving": 0.2,
+          "clarity_of_explanation": 0.1
+        },
+        "recommendation": "Strong Match",
+        "recommendation_justification": "Candidate demonstrated comprehensive mastery for the Full Stack Developer (Fresher) profile, achieving an aggregate score of 88.0%. Responses showed high technical precision, sound architectural problem-solving, and clear articulation of design trade-offs.",
+        "strengths_summary": "Key Strengths: Q1 (Resume & Project Deep Dive): Scored 85.9%; Q2 (Core Programming & Concurrency): Scored 91.1%; Q3 (Database & High Performance): Scored 90.5%; Q4 (System Design & Idempotency): Scored 90.5%; Q5 (Engineering Collaboration & Behavioral): Scored 82.1%",
+        "knowledge_gaps_summary": "Areas for Improvement: Continuous refinement in large-scale system patterns.",
+        "learning_recommendations": [
+          {
+            "topic": "Advanced Full Stack Developer Systems Architecture",
+            "description": "Deep dive into microservices communication patterns, idempotency, and distributed transaction management.",
+            "resources": [
+              "Designing Data-Intensive Applications (Martin Kleppmann)",
+              "System Design Primer (GitHub)"
+            ],
+            "priority": "High"
+          },
+          {
+            "topic": "Concurrency, Memory, and Async Runtimes",
+            "description": "Master non-blocking I/O, event loops, thread pooling, and prevention of race conditions.",
+            "resources": [
+              "Official Language Documentation & Concurrency Guides",
+              "High Performance Browser Networking"
+            ],
+            "priority": "Medium"
+          },
+          {
+            "topic": "Observability & Production Reliability",
+            "description": "Learn to monitor metrics, traces, and logs using OpenTelemetry, Prometheus, and Grafana.",
+            "resources": [
+              "Google Site Reliability Engineering (SRE) Handbook"
+            ],
+            "priority": "Medium"
+          }
+        ],
+        "recruiter_override_score": null,
+        "recruiter_override_recommendation": null,
+        "recruiter_notes": null,
+        "reviewed_at": null,
+        "questions": [
+          {
+            "id": 50,
+            "session_id": 12,
+            "order_index": 1,
+            "category": "Resume & Project Deep Dive",
+            "question_text": "In your project 'Quantum Traffic Optimization System' built with Python, Qiskit, Streamlit, Google Maps API, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "question_text_en": "In your project 'Quantum Traffic Optimization System' built with Python, Qiskit, Streamlit, Google Maps API, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "audio_caption": "In your project 'Quantum Traffic Optimization System' built with Python, Qiskit, Streamlit, Google Maps API, can you explain the architectural structure, how data flows through the application, and the most challenging technical hurdle you personally resolved?",
+            "is_follow_up": false,
+            "candidate_answer": "For my Quantum Traffic Optimization System, the resume lists Python, Qiskit, Streamlit and Google Maps API. In this demonstration I would separate route data collection, optimization and dashboard presentation. I would validate missing traffic inputs, compare routes against a classical baseline and test response latency. The resume does not establish quantum advantage or measured performance, so those claims require supporting experiments.",
+            "answer_input_type": "text",
+            "score_overall": 85.9,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:40.150023"
+          },
+          {
+            "id": 51,
+            "session_id": 12,
+            "order_index": 2,
+            "category": "Core Programming & Concurrency",
+            "question_text": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "question_text_en": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "audio_caption": "As a candidate for Full Stack Developer, could you explain how memory management, concurrency, and async execution work in Python? What pitfalls like deadlocks or memory leaks should an engineer watch out for?",
+            "is_follow_up": false,
+            "candidate_answer": "I would handle API concurrency with asynchronous I/O for network calls and a bounded worker pool for CPU intensive tasks. I would prevent shared state races using isolated request data and transaction boundaries. I would test simultaneous requests, measure latency and log failures before choosing a deployment scale. This is a proposed approach rather than a verified description of my implementation.",
+            "answer_input_type": "text",
+            "score_overall": 91.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:40.217088"
+          },
+          {
+            "id": 52,
+            "session_id": 12,
+            "order_index": 3,
+            "category": "Database & High Performance",
+            "question_text": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "question_text_en": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "audio_caption": "When scaling applications with PostgreSQL, how do you design tables and indexes for high-throughput reads and writes? How would you identify and fix a slow-running query in production?",
+            "is_follow_up": false,
+            "candidate_answer": "I would design database indexes around frequent filters and joins, inspect the query plan and measure latency using representative data. To handle consistency I would use a transaction for related updates, validate inputs and test rollback paths. Indexes speed reads but consume storage and make writes more expensive, so I would retain only indexes justified by measurements.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:40.289058"
+          },
+          {
+            "id": 53,
+            "session_id": 12,
+            "order_index": 4,
+            "category": "System Design & Idempotency",
+            "question_text": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "question_text_en": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "audio_caption": "Design scenario: Imagine we need to build an idempotent REST API for payments or notifications in React that processes 5,000 requests per second. How do you guarantee zero duplicate operations and handle network timeouts?",
+            "is_follow_up": false,
+            "candidate_answer": "For a reliable API I would validate requests, enforce authentication and authorization, use parameterized database queries and return safe error messages. I would handle timeouts with bounded retry policies for idempotent operations. I would add tests, structured logs and metrics so failures can be reproduced and security issues investigated. This describes my proposed design for the scenario.",
+            "answer_input_type": "text",
+            "score_overall": 90.5,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Additional discussion of automated observability and telemetry.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:40.363166"
+          },
+          {
+            "id": 54,
+            "session_id": 12,
+            "order_index": 5,
+            "category": "Engineering Collaboration & Behavioral",
+            "question_text": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "question_text_en": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "audio_caption": "Tell me about a situation where you had a disagreement with a team member or reviewer regarding a technical choice or pull request. How did you communicate, evaluate trade-offs, and reach a consensus?",
+            "is_follow_up": false,
+            "candidate_answer": "During a team disagreement I would first ask each member to explain the requirement and the evidence behind their preferred design. I would document the options, agree on a small test and compare the results against shared acceptance criteria. If the issue remained unresolved I would ask the project mentor to help decide. This is a hypothetical behavioral answer for the demonstration.",
+            "answer_input_type": "text",
+            "score_overall": 82.1,
+            "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+            "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+            "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+            "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability.",
+            "answered_at": "2026-10-18T05:45:40.447821"
+          }
+        ],
+        "audit_history": []
+      },
+      "evaluations": [
+        {
+          "question_id": 50,
+          "score_overall": 85.9,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 86,
+          "score_problem_solving": 68.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, orm, latency. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, orm, latency, test.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 51,
+          "score_overall": 91.1,
+          "score_technical": 95,
+          "score_relevance": 90,
+          "score_depth": 92,
+          "score_problem_solving": 88.3,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in state, async, transaction. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: state, async, transaction, api. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 52,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in index, transaction, query. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: index, transaction, query, join. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 53,
+          "score_overall": 90.5,
+          "score_technical": 95,
+          "score_relevance": 88.5,
+          "score_depth": 92,
+          "score_problem_solving": 87.1,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in api, idempotent, retry. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: api, idempotent, retry, test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Additional discussion of automated observability and telemetry.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        },
+        {
+          "question_id": 54,
+          "score_overall": 82.1,
+          "score_technical": 81.8,
+          "score_relevance": 90,
+          "score_depth": 66.5,
+          "score_problem_solving": 88.6,
+          "score_clarity": 85,
+          "feedback_justification": "Candidate provided a thorough explanation. Demonstrated technical understanding in test. Explanation was clear and directly targeted to the role of Full Stack Developer.",
+          "strengths": "Demonstrated good awareness of core terms: test. Articulated a concrete engineering approach to solving the scenario.",
+          "missing_concepts": "Deep architectural trade-offs and edge-case handling.",
+          "ideal_answer_summary": "An exemplary response outlines the architectural structure, evaluates specific trade-offs (e.g. latency vs consistency, memory vs CPU), and mentions production safeguards like automated retries, rate limiting, and observability."
+        }
+      ]
+    }
+  ],
+  "ui_session_id": 11,
+  "repeat_identical_scores": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "candidate_name": "Manda Vijaya Sri",
+  "summary": "B.Tech AI and DS student with MERN, cybersecurity and data science internships and projects in traffic optimization, healthcare management, drone detection and e-commerce.",
+  "parsed_data": {
+    "candidate_name": "Manda Vijaya Sri",
+    "candidate_email": "ne6301749467vijayasrimanda025@gmail.comlinkedin.com",
+    "candidate_phone": "6301749467",
+    "summary": "B.Tech AI and DS student with MERN, cybersecurity and data science internships and projects in traffic optimization, healthcare management, drone detection and e-commerce.",
+    "skills": {
+      "languages": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "C",
+        "SQL"
+      ],
+      "frameworks": [
+        "React",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "Spring Boot"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Oracle"
+      ],
+      "tools_and_platforms": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Azure"
+      ],
+      "other": [
+        "REST API",
+        "Microservices",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analysis"
+      ]
+    },
+    "projects": [
+      {
+        "title": "Quantum Traffic Optimization System",
+        "technologies": [
+          "Python",
+          "Qiskit",
+          "Streamlit",
+          "Google Maps API"
+        ],
+        "description": "Quantum-inspired traffic optimization engine and interactive route analytics dashboard."
+      },
+      {
+        "title": "CarePulse Healthcare Management System",
+        "technologies": [
+          "React.js",
+          "Spring Boot",
+          "MySQL"
+        ],
+        "description": "Patient, doctor and appointment management with JWT authentication and REST APIs."
+      },
+      {
+        "title": "Drone Detection AI",
+        "technologies": [
+          "YOLO",
+          "OpenCV",
+          "Firebase"
+        ],
+        "description": "Real-time drone detection from video feeds."
+      },
+      {
+        "title": "Fresh Cart MERN Web App",
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB"
+        ],
+        "description": "E-commerce product catalog and shopping cart management."
+      }
+    ],
+    "experience": [
+      {
+        "company": "SmartInternz",
+        "role": "Full Stack MERN Intern",
+        "duration": "May 2025 to Jul 2025"
+      },
+      {
+        "company": "Indian Servers",
+        "role": "Cybersecurity Intern",
+        "duration": "Apr 2025 to Jul 2025"
+      },
+      {
+        "company": "SkillDzire",
+        "role": "Data Science Intern",
+        "duration": "May 2025 to Jun 2025"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Tech AI and DS",
+        "institution": "Seshadri Rao Gudlavalleru Engineering College",
+        "year": "Pursuing",
+        "grade_or_gpa": "9.01 till date"
+      },
+      {
+        "degree": "Diploma CME",
+        "institution": "VKR, VNB and AGK College",
+        "year": "2021-2024",
+        "grade_or_gpa": "9.13"
+      }
+    ],
+    "certifications": [
+      "Microsoft\u2013 Machine Learning Operations Engineer Associate (AI-300) Jun 2025",
+      "Microsoft\u2013 Azure AI Cloud Developer Associate (AI-200) May 2025",
+      "Oracle\u2013 Agentic AI Certified Foundations Associate Apr 2025"
+    ],
+    "topics_to_explore": [
+      "Quantum Traffic Optimization System architecture and validation",
+      "Python concurrency and memory",
+      "Database indexing and query plans",
+      "API reliability and idempotency",
+      "Engineering collaboration"
+    ]
+  }
+}
